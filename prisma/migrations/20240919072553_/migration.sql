@@ -14,6 +14,7 @@ CREATE TABLE "Employee" (
     "firstName" TEXT NOT NULL,
     "lastName" TEXT NOT NULL,
     "age" TEXT NOT NULL,
+    "position" TEXT NOT NULL,
     "address" TEXT NOT NULL,
     "userId" TEXT NOT NULL,
 
